@@ -1,0 +1,16 @@
+{
+    "name": "stepotronic/idgenerator",
+    "description": "Basic id generator",
+    "autoload": {
+        "psr-0": {
+            "IdGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thorsten 'stepo' Hallwas",
+            "email": "stepotronic@web.de"
+        }
+    ],
+    "minimum-stability": "alpha"
+}
